@@ -1,0 +1,8 @@
+# ψ(0)
+0+1j
+# E_0
+0.5
+# grid size ∆t
+0.01
+# Number of time steps
+5000
